@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="text_1">Johnny Deep</string>
+    <string name="text_2">Bogota, Colombia</string>
+    <string name="text_3">527</string>
+    <string name="text_4">Stories</string>
+    <string name="text_5">518</string>
+    <string name="text_6">Followers</string>
+    <string name="text_7">284</string>
+    <string name="text_8">Following</string>
+    <string name="text_9">My trip to Itali</string>
+    <string name="text_10">Varios lugares de Italia para compartir</string>
+    <string name="atr_1">texto1</string>
+</resources>
